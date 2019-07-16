@@ -121,6 +121,7 @@ y el push
 git push
 ```
 .........
-
+```
 git add README.md
 git commit
+```
